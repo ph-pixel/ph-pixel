@@ -34,10 +34,7 @@ Me tornar um Desenvolvedor Full Stack Profissional.
 <img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=css" />
 <img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=php" />
 <img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 
 </p>
@@ -56,23 +53,6 @@ Me tornar um Desenvolvedor Full Stack Profissional.
 
 ---
 
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 Troféus
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&margin-w=15"/>
-
-</p>
 
 ---
 
